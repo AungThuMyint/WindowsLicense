@@ -1,10 +1,10 @@
 # Windows Digital License Activator (Offline)
 
-    Mode By Aung Thu Myint
+    Run Start.exe
 
 # Download Link
   
-    https://github.com/AungThuMyint/WindowsLicense/blob/main/WindowsDigitalLicense.zip
+Click To Download [WindowsDigitalLicense.zip](https://github.com/AungThuMyint/WindowsLicense/blob/main/WindowsDigitalLicense.zip?raw=true)
   
 # Screenshot
 
