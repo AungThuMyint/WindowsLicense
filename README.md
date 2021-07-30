@@ -1,9 +1,10 @@
-# WindowsLicense
-Windows 10 Official Digital License
+# Windows Digital License Activator (Offline)
+
+    Mode By Aung Thu Myint
 
 # Download Link
   
-    https://github.com/AungThuMyint/WindowsLicense/blob/main/WindowsDigitalLicense.zip?raw=true
+    https://github.com/AungThuMyint/WindowsLicense/blob/main/WindowsDigitalLicense.zip
   
 # Screenshot
 
